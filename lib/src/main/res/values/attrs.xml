@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VerticalRefreshLayout">
+        <!--方向-->
+        <attr name="refresh_orientation" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="vertical" value="2"/>
+            <enum name="horizontal" value="1"/>
+        </attr>
+        <attr name="can_pull_down" format="boolean"/>
+        <attr name="can_pull_up" format="boolean"/>
+        <attr name="customer_header" format="boolean"/>
+
+    </declare-styleable>
+</resources>
