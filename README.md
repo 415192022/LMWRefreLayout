@@ -27,8 +27,8 @@
 引入依赖
 ```
 dependencies {
-    implementation 'com.github.QiHang-Android:GRefreshLayout:latest.release'
-}
+	        implementation 'com.github.415192022:LMWRefreLayout:Tag'
+	}
 ```
 
 xml中使用
